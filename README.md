@@ -39,7 +39,7 @@ It is a simple API built on Go that processes receipts and generates points for 
 
 ## How to Run
 
-1. Clone the repo and ```cd``` into the directory.
+1. Clone the repo and ```cd fetchserverapi``` 
 
 2. If you have Go installed, skip step 3, else go to step 3
    ```
